@@ -12,7 +12,7 @@
 There are 2 options for running this workshop:
 
 ### 1. Codespaces w/ linux monorepo
-Within this repository, click on the `Code` button and select `Open with Codespaces`. Select all of the default options. This will open a new Codespace with all the tools you need to run this workshop.
+Within this repository, click on the `Code` button and select [`Open with Codespaces`](https://github.com/codespaces/new?repo=pmartindev/pre-built-codespaces-test). Select all of the default options. This will open a new Codespace with all the tools you need to run this workshop.
 
 ### 2. Local w/ BYOM (Bring Your Own Monorepo)
 If you don't have Docker installed, you can run the workshop locally, you will need to install the following tools:
